@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rnd-locofy.github.io/static/css/main.043ee351.css",
+    "main.js": "/rnd-locofy.github.io/static/js/main.92dd8dc1.js",
+    "static/js/453.29a2dcfd.chunk.js": "/rnd-locofy.github.io/static/js/453.29a2dcfd.chunk.js",
+    "index.html": "/rnd-locofy.github.io/index.html",
+    "main.043ee351.css.map": "/rnd-locofy.github.io/static/css/main.043ee351.css.map",
+    "main.92dd8dc1.js.map": "/rnd-locofy.github.io/static/js/main.92dd8dc1.js.map",
+    "453.29a2dcfd.chunk.js.map": "/rnd-locofy.github.io/static/js/453.29a2dcfd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.043ee351.css",
+    "static/js/main.92dd8dc1.js"
+  ]
+}
